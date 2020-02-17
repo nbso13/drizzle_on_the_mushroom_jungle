@@ -1,0 +1,8 @@
+body {
+  background-image: url(../images/baseball.gif);
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
